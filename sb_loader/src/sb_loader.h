@@ -3,6 +3,8 @@
 #include <math.h>
 #include <utility>
 #include <unordered_set>
+#include <string>
+#include <vector>
 #include "fmt/format.h"
 #include "SBReadFile.h"
 #include "phoebe_util/util.h"

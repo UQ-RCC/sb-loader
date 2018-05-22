@@ -1,6 +1,5 @@
 #include "sb_loader.h"
 
-
 void ConvertSBImages(const std::string & filename);
 
 int main(int argc, char ** argv)
